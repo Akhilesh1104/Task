@@ -25,7 +25,6 @@ body {
 }
 .plane_image {
   position: relative;
-  margin-left: 20px;
 }
 .plane_image > .image_inside {
   height: 800px;
@@ -414,7 +413,7 @@ body {
   font-weight: 500;
 }
 .socials {
-  margin-top: 100px;
+  margin-top: 70px;
   display: flex;
   justify-content: space-around;
 }
